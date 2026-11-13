@@ -5,3 +5,7 @@ dist
 *.db-*
 .env
 next-env.d.ts
+.pglite
+
+# private working notes
+brain/
